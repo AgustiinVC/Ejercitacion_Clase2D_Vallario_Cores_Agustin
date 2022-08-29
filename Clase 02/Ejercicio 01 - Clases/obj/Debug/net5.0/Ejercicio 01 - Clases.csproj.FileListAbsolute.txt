@@ -1,0 +1,16 @@
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.exe
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.deps.json
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.runtimeconfig.json
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.runtimeconfig.dev.json
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.dll
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Ejercicio 01 - Clases.pdb
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.csproj.AssemblyReference.cache
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.AssemblyInfoInputs.cache
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.AssemblyInfo.cs
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.csproj.CoreCompileInputs.cache
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.dll
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\refint\Ejercicio 01 - Clases.dll
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.pdb
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.genruntimeconfig.cache
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\ref\Ejercicio 01 - Clases.dll

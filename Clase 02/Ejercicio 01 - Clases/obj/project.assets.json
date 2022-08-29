@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Agostin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\Agostin\\Desktop\\Facultad\\2022\\2do Cuatri\\Programacion II y Labo II\\Ejercitacion_Clase2D_Vallario_Cores_Agustin\\Clase 02\\Ejercicio 01 - Clases\\Ejercicio 01 - Clases.csproj",
+      "projectName": "Ejercicio 01 - Clases",
+      "projectPath": "D:\\Users\\Agostin\\Desktop\\Facultad\\2022\\2do Cuatri\\Programacion II y Labo II\\Ejercitacion_Clase2D_Vallario_Cores_Agustin\\Clase 02\\Ejercicio 01 - Clases\\Ejercicio 01 - Clases.csproj",
+      "packagesPath": "C:\\Users\\Agostin\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Agostin\\Desktop\\Facultad\\2022\\2do Cuatri\\Programacion II y Labo II\\Ejercitacion_Clase2D_Vallario_Cores_Agustin\\Clase 02\\Ejercicio 01 - Clases\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Agostin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

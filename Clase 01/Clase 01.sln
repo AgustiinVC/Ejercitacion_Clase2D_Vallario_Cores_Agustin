@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 01", "Clase 01", "{5C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 02", "Ejercicio 02\Ejercicio 02.csproj", "{64C8CA0C-93CA-4ABE-A379-A93D01610A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 03 - Los primos", "Ejercicio 03 - Los primos\Ejercicio 03 - Los primos.csproj", "{379A27E8-C87B-4DC7-BAC4-3FA1BBBF685F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 03 - Los primos", "Ejercicio 03 - Los primos\Ejercicio 03 - Los primos.csproj", "{379A27E8-C87B-4DC7-BAC4-3FA1BBBF685F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
