@@ -6,4 +6,8 @@
     <RootNamespace>Ejercicio_02</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,5 @@
 ﻿using System;
-using BibliotecaEjer02;
+using Biblioteca;
 
 namespace Ejercicio_03___Ejemplo_Universarl
 {

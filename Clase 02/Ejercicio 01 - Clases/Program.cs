@@ -1,5 +1,5 @@
 ﻿using System;
-using CuentaInterna;
+using Biblioteca;
 
 namespace Ejercicio_01___Clases
 {

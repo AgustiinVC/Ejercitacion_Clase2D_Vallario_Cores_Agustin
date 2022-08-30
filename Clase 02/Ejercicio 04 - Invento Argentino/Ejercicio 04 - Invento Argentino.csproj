@@ -6,4 +6,8 @@
     <RootNamespace>Ejercicio_04___Invento_Argentino</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>

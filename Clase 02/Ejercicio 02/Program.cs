@@ -1,7 +1,7 @@
 ﻿using System;
 using Biblioteca;
 
-namespace Ejercicio_02____Cuantas_Primaveras_tenes
+namespace Ejercicio_02
 {
     internal class Program
     {

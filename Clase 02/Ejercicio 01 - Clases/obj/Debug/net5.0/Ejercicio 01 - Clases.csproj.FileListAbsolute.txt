@@ -14,3 +14,6 @@ D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejer
 D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.pdb
 D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.genruntimeconfig.cache
 D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\ref\Ejercicio 01 - Clases.dll
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Biblioteca.dll
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\bin\Debug\net5.0\Biblioteca.pdb
+D:\Users\Agostin\Desktop\Facultad\2022\2do Cuatri\Programacion II y Labo II\Ejercitacion_Clase2D_Vallario_Cores_Agustin\Clase 02\Ejercicio 01 - Clases\obj\Debug\net5.0\Ejercicio 01 - Clases.csproj.CopyComplete

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 03 - Ejemplo Univ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 04 - Invento Argentino", "Ejercicio 04 - Invento Argentino\Ejercicio 04 - Invento Argentino.csproj", "{4D849D53-E34C-48F8-97C8-1E5DA3BB613D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 02", "Ejercicio 02\Ejercicio 02.csproj", "{6E35A587-5B3F-4987-ABB3-09D407746FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 02", "Ejercicio 02\Ejercicio 02.csproj", "{6E35A587-5B3F-4987-ABB3-09D407746FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{848C11F1-8A31-4AEA-AAD7-B22483772FEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6E35A587-5B3F-4987-ABB3-09D407746FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E35A587-5B3F-4987-ABB3-09D407746FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E35A587-5B3F-4987-ABB3-09D407746FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848C11F1-8A31-4AEA-AAD7-B22483772FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848C11F1-8A31-4AEA-AAD7-B22483772FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848C11F1-8A31-4AEA-AAD7-B22483772FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848C11F1-8A31-4AEA-AAD7-B22483772FEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
